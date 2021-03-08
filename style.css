@@ -1,0 +1,16 @@
+circle {
+    fill: none;
+    stroke-width: .2px;
+    stroke: black
+}
+
+path {
+    fill: none;
+    stroke-width: .4px;
+    stroke: black
+}
+
+#brick2 {
+    /* width: 500px; */
+    padding: 10px;
+}
