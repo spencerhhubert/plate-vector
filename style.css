@@ -1,16 +1,8 @@
-circle {
-    fill: none;
-    stroke-width: .2px;
-    stroke: black
-}
-
-path {
-    fill: none;
-    stroke-width: .4px;
-    stroke: black
-}
-
-#brick2 {
-    /* width: 500px; */
+#plate {
+    width: 500px;
     padding: 10px;
+}
+
+body {
+    background-color: #f5f5f5;
 }
