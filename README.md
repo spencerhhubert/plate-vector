@@ -1,6 +1,8 @@
 # plate-vector
 
-randomly generates this pattern of lego-looking plates in javascript
+randomly generates this pattern of lego-looking plates in javascript.
+
+the size of the grid and the size of the studs can be adjusted in brick.js
 
 https://spencerhhubert.github.io/plate-vector/
 
