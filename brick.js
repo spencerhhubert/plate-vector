@@ -202,6 +202,6 @@ let randomShape = {
     "pattern": generatePattern(5, 5)
 }
 let plateNode = document.getElementById("plate");
-let plate = new Plate(randomShape, true, "white", true, "#f5f5f5", .3)
+let plate = new Plate(randomShape, true, "white", true, "black", .3)
 plate.generate()
 plateNode.appendChild(plate.node)
